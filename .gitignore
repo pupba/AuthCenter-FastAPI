@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.sqlite
+*.json
+.DS_Store
+__pycache__
+sqlite3_db_for_window

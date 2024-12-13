@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+orjson
+sqlalchemy
+python-jose[cryptography]
+requests
